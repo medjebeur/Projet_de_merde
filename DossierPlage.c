@@ -1,6 +1,6 @@
-// Creéation dossier piscine, plage
+// CreÃ©ation dossier piscine, plage
 
 #include <stdio.h>
 
-VIVE LES VACANCES !!
+VIVE LES VACANCES  A PARIS PLAGE BABY !!
 
